@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello everyone!
+
+My name is Ben Huang.
+I hope that I am doing this right.
